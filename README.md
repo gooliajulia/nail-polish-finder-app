@@ -36,37 +36,37 @@
      - Explain the method for extracting dominant colors from photos. (TBD)
      - Identify any third-party APIs or custom ML models used for color matching. (TBD)
 
-### 4. **Technical Requirements** (Remove?)
+### **Technical Requirements** (Remove?)
    - **Frontend**: Frameworks, libraries, styling (e.g., CSS, Bootstrap, Material UI).
    - **Backend**: Language, framework, and API specification.
    - **Database**: Schema design and storage requirements.
    - **Image Processing**: Any libraries (OpenCV, PIL, etc.) or APIs (Google Cloud Vision, Clarifai) for color recognition.
 
-### 5. **Deployment & DevOps**
+###  **Deployment & DevOps**
    - **Hosting**: Where will the app be hosted (e.g., AWS, Heroku)? (TBD)
    - **CI/CD**: Continuous Integration and Continuous Deployment pipeline. (TBD)
    - **Version Control**: GitHub for versioning and collaboration.
    - **Security Considerations**: User privacy, data storage, and security practices (e.g., HTTPS, encryption). (TBD)
 
-### 6. **Scalability & Performance**
+###  **Scalability & Performance**
    - Handling large image uploads and processing them efficiently. (TBD)
    - How you plan to scale the backend (e.g., load balancing, caching). (TBD)
 
-### 7. **Mobile App Roadmap**
+###  **Mobile App Roadmap**
    - Detail the plan to port the web app to iOS. (TBD)
    - Technologies for mobile (e.g., Swift or React Native). (TBD)
    - Features unique to mobile (camera integration for direct photo upload). (TBD)
 
-### 8. **User Experience (UX) & Interface Design**
+###  **User Experience (UX) & Interface Design**
    - Outline wireframes or user flows. (TBD)
    - How users navigate from photo upload to results. (TBD)
    - Any user testing or feedback mechanisms. (TBD)
 
-### 9. **Challenges and Considerations**
+###  **Challenges and Considerations**
    - Potential technical challenges, such as accuracy in color matching. (TBD)
    - Legal and ethical considerations (e.g., using brand data, copyright for photos). (TBD)
 
-### 10. **Future Enhancements**
+###  **Future Enhancements**
    - Mobile app development. (TBD)
    - Adding features like AR for trying nail polish virtually. (TBD)
    - Expanding to more beauty products (e.g., lipstick, eyeshadow). (TBD)

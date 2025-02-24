@@ -1,4 +1,3 @@
-import './App.css'
 import { UploadImageScreen } from './screens/UploadImage'
 
 function App() {
